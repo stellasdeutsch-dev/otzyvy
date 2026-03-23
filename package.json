@@ -2,6 +2,7 @@
   "name": "crimson-rocket",
   "private": true,
   "version": "0.0.0",
+  "homepage": "https://stellasdeutsch-dev.github.io/otzyvy/",
   "type": "module",
   "scripts": {
     "dev": "vite",
