@@ -22,7 +22,7 @@ function App() {
           WebkitTextFillColor: 'transparent',
           marginBottom: '10px'
         }}>
-          What Our Users Say
+          Отзывы о платформе Stellas Deutsch
         </h1>
         <p style={{ color: '#94a3b8', fontSize: '1.1rem' }}>
           Drag to explore &bull; Click card to read more
